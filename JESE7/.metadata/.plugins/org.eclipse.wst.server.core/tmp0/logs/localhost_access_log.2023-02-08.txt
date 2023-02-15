@@ -1,0 +1,11 @@
+127.0.0.1 - - [08/Feb/2023:11:23:37 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [08/Feb/2023:11:23:38 +0530] "GET /project2_jese8/HSstudent.html HTTP/1.1" 200 239
+0:0:0:0:0:0:0:1 - - [08/Feb/2023:11:24:06 +0530] "POST /project2_jese8/bd HTTP/1.1" 405 748
+127.0.0.1 - - [08/Feb/2023:11:58:37 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [08/Feb/2023:11:58:38 +0530] "GET /without_mapping/proj.html HTTP/1.1" 200 212
+0:0:0:0:0:0:0:1 - - [08/Feb/2023:11:58:46 +0530] "GET /without_mapping/hps?name=helloo HTTP/1.1" 405 751
+0:0:0:0:0:0:0:1 - - [08/Feb/2023:11:59:16 +0530] "GET /without_mapping/proj.html HTTP/1.1" 200 226
+0:0:0:0:0:0:0:1 - - [08/Feb/2023:11:59:20 +0530] "POST /without_mapping/hps HTTP/1.1" 405 752
+127.0.0.1 - - [08/Feb/2023:12:30:30 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [08/Feb/2023:12:30:31 +0530] "GET /without_mapping/proj18.html HTTP/1.1" 200 219
+0:0:0:0:0:0:0:1 - - [08/Feb/2023:12:30:40 +0530] "GET /without_mapping/abcd?name=preethi HTTP/1.1" 200 -
